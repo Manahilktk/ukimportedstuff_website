@@ -1,0 +1,202 @@
+ *{
+    margin: 0;
+    font-family: Arial;
+    border: border-box;
+ } 
+
+.navbar{
+    height: 100px;
+    background-color: #538392;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+.nav-logo{
+    font-style:oblique;
+    height: 140;
+    width: 25;
+    font-size: 250%;
+    color:#FFE9D0;
+}
+.side-item{
+    color: black;
+    margin-left: 40%;
+}
+.side-item2{
+    color: black;
+    margin-left: 5%;
+}
+.cart{
+    color: black;
+}
+.menu{
+    color:white;
+    height: 60px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #888a80;
+}
+.names {
+   color: #000;
+}
+.search-input{
+    margin-left: 60%;
+}
+.information{
+    height: 100px;
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    background-color: #eff0eb;
+}
+.information p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+}
+.hero-section{
+    
+    background-image: url(hero\ image.jpg);
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+  
+}
+.sale-box{
+    height: 90px;
+    background-color: #6c7075;
+    display: flex;
+    justify-content: center;
+}
+.sale-box p{
+    font-size: 30px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color: azure;
+    padding-top: 2%;
+}
+.box1{
+    height: 500px;
+    width: 500px;
+    background-image: url(crossbody\ bag.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+    
+}
+.box2{
+    height: 500px;
+    width: 500px;
+    background-image: url(heels.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+    
+}
+.box3{
+    height: 500px;
+    width: 500px;
+    background-image: url(hair.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+    
+
+}
+.box4{
+    height: 500px;
+    width: 500px;
+    background-image: url(makeup.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+   
+}
+.box5{
+    height: 500px;
+    width: 500px;
+    background-image: url(skincare.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+    
+}
+.box6{
+    height: 500px;
+    width: 500px;
+    background-image: url(jackets.jpg);
+    background-size:cover;
+    border: 2px solid black;
+    border-radius: 15%;
+}
+.container{
+    display: flex;
+}
+.container2{
+    display: flex;
+}
+.foot-panel{
+    height: 80px;
+    background-color: #538392;
+    color: white;
+}
+.foot-panel p {
+    display: inline;
+    margin-left: 15px;
+}
+#email{
+    margin-left: 5%;
+    margin-top: 2%;
+   height: 30px;
+   width: 300px;
+   border-radius: 10px;
+}
+#button{
+    height: 30px;
+    width: 80px;
+    border-radius: 10px;
+    background-color: #000;
+    color: white;
+    font-family:'Times New Roman', Times, serif;
+    
+}
+.foot-panel2{
+    height: 250px;
+    width: 1500px;
+    background-color: azure;
+}
+.foot-panel2 ul{
+    list-style-type: none;
+}
+.foot-panel2{
+    display:flex;
+}
+.part1{
+   margin-top: 15px;
+  margin-left: 15px;
+
+}
+.part1 li{
+    margin-top: 10px;
+}
+.part2{
+    margin-top: 15px;
+    margin-left: 45%;
+}
+.part2 li{
+    margin-top: 10px;
+}
+.foot-panel3{
+    height: 150px;
+    width: 1500px;
+    background-color: azure;
+
+}
+.foot-panel3 P{
+    margin-top: 25px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+#OWNER{
+    text-align: center;
+    font-size: small;
+}
+
